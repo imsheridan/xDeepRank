@@ -1,0 +1,7 @@
+# Distribution
+build/
+dist/
+xdeeprank.egg-info/
+
+# Compiling
+__pycache__/

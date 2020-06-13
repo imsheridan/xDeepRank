@@ -5,3 +5,4 @@ xdeeprank.egg-info/
 
 # Compiling
 __pycache__/
+*.DS_Store
